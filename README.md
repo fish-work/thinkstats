@@ -1,0 +1,2 @@
+# thinkstats
+thinkstats practise

@@ -1,2 +1,2 @@
 # thinkstats
-thinkstats practise
+thinkstats 练习题
